@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working with Mendix, JavaScript(React/Next/HTML/CSS) and Python.
+- 🔭 I’m currently working with Mendix, JavaScript(React/Vue), Python and HTML/CSS.
 
 
 
