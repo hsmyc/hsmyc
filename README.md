@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m a developer.
+- 🔭 I’m a software developer.
 
 
 
