@@ -1,4 +1,1 @@
-### Hi there 👋
-
-
-- 🔭 I’m a software developer.
+Software Developer, Lawyer, Recreational Thinker. Simply striving to understand the world. Merely a curious man.
